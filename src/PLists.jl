@@ -33,5 +33,6 @@ include("xml_dom.jl")
 include("xml_parser.jl")
 include("xml_show.jl")
 include("xml_plist_parser.jl")
+include("xml_writer.jl")
 
 end
