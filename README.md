@@ -33,7 +33,7 @@ The examples directory contains some simple XML files which you can read with th
     julia> xml(ns[2])
     <from>Joker</from>
 
-The DOM API has been modeled on the API used in [EzXML.jl](https://bicycle1885.github.io/EzXML.jl/latest/manual/). The key difference being that EzXML is a wrapper around a C/C++ XML parser while PLists has no dependencies.
+The DOM API has been modeled on the API used in [EzXML.jl](https://juliaio.github.io/EzXML.jl/stable/manual/). The key difference being that EzXML is a wrapper around a C/C++ XML parser while PLists has no dependencies.
 
 ## Working with NeXTSTEP PList Files
 
